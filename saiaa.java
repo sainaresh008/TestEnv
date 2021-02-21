@@ -9,7 +9,11 @@ class CopyArray {
             arr2[i] = arr1[i];
         }
         //Displaying elements of array arr1
+sainaresh008-patch-2
+        System.out.println("Elements of original array: ");\\sainaresh
+
         System.out.println("Elements of original array: ");\\sai11\\code change to master branch
+
         for (int i = 0; i < arr1.length; i++) {
             System.out.print(arr1[i] + " ");
         }
