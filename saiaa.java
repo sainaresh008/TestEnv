@@ -7,7 +7,7 @@ class CopyArray {
         //Copying all elements of one array into another
         for (int i = 0; i < arr1.length; i++) {
             arr2[i] = arr1[i];
-        }, . kn n nm
+        }
         //Displaying elements of array arr1
 sainaresh008-patch-2
         System.out.println("Elements of original array: ");\\sainaresh
