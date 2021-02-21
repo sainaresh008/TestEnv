@@ -17,7 +17,7 @@ class CopyArray {
         System.out.println();
 
         //Displaying elements of array arr2
-        System.out.println("Elements of new array: ");
+        System.out.println("Elements of new array: ");///
         for (int i = 0; i < arr2.length; i++) {
             System.out.print(arr2[i] + " ");
         }
